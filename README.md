@@ -1,7 +1,7 @@
 # Sahay
 
 
-website: http://consumercaseanalytics-env-1.eba-uijtezja.ap-south-1.elasticbeanstalk.com/
+website: https://shorturl.at/cswH7
 
 Company Dataset Link: https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do
 
